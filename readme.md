@@ -69,9 +69,7 @@ This project demonstrates:
 
 ---
 
-![Uploading image.png…]()
-
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5d964393-9a9e-43f4-adc8-0f33fbffa91c" />
 
 # How Does It Work?
 
