@@ -54,6 +54,13 @@ This project demonstrates:
 
 ---
 
+<img width="1917" height="920" alt="Screenshot 2026-09-04 155412" src="https://github.com/user-attachments/assets/597fd12f-6b93-4358-ae20-c6d32391b4cb" />
+
+## Generated image
+
+<img width="870" height="826" alt="Screenshot 2026-09-04 155456" src="https://github.com/user-attachments/assets/a06f87bb-26e9-4a74-b655-73ab273149fd" />
+
+---
 ## Technologies Used
 
 | Technology | Purpose |
