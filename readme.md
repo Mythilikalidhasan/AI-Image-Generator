@@ -69,7 +69,8 @@ This project demonstrates:
 
 ---
 
-![Uploading Screenshot 2026-09-04 155412.png…]()
+![Uploading image.png…]()
+
 
 
 # How Does It Work?
