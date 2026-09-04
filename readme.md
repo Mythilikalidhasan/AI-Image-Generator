@@ -69,9 +69,8 @@ This project demonstrates:
 
 ---
 
-![alt text](<Screenshot 2026-09-04 155412-1.png>)
+![Uploading Screenshot 2026-09-04 155412.png…]()
 
-![alt text](<Screenshot 2026-09-04 155456.png>)
 
 # How Does It Work?
 
